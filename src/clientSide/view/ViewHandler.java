@@ -30,6 +30,9 @@ public class ViewHandler {
         this.mainStage = mainStage;
     }
 
+    /**
+     * Method start. loads and displays the NewSaleView
+     */
     public void start(){
         FXMLLoader loader = new FXMLLoader();
 

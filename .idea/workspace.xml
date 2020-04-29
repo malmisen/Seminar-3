@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="Seminar Task 3" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="Seminar Task 3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Seminar 3/clientSide/integration/DiscountCatalog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Seminar 3/clientSide/integration/DiscountCatalog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clientSide/view/ViewHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clientSide/view/ViewHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clientSide/viewModel/viewModels/AddItemToCartViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clientSide/viewModel/viewModels/AddItemToCartViewModel.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,7 +117,7 @@
       <recent name="clientSide.viewModel" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestScannedGoods.getItemList">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -287,9 +292,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="JUnit.TestScannedGoods.getItemList" />
         <item itemvalue="JUnit.TestScannedGoods.addTwoOfOneItem" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="JUnit.TestScannedGoods.addTwoItems" />
         <item itemvalue="JUnit.TestScannedGoods.addOneItem" />
       </list>
@@ -332,6 +337,17 @@
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="1302000" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -368,22 +384,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="782" y="436" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588164521901" />
-    <state width="1877" height="161" key="GridCell.Tab.0.bottom" timestamp="1588164971124">
+    <state width="1877" height="161" key="GridCell.Tab.0.bottom" timestamp="1588172805264">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="161" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588164971124" />
-    <state width="1877" height="161" key="GridCell.Tab.0.center" timestamp="1588164971124">
+    <state width="1877" height="161" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588172805264" />
+    <state width="1877" height="161" key="GridCell.Tab.0.center" timestamp="1588172805264">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="161" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588164971124" />
-    <state width="1877" height="161" key="GridCell.Tab.0.left" timestamp="1588164971123">
+    <state width="1877" height="161" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588172805264" />
+    <state width="1877" height="161" key="GridCell.Tab.0.left" timestamp="1588172805264">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="161" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588164971123" />
-    <state width="1877" height="161" key="GridCell.Tab.0.right" timestamp="1588164971124">
+    <state width="1877" height="161" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588172805264" />
+    <state width="1877" height="161" key="GridCell.Tab.0.right" timestamp="1588172805264">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="161" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588164971124" />
+    <state width="1877" height="161" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588172805264" />
     <state width="1877" height="216" key="GridCell.Tab.1.bottom" timestamp="1588156911756">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -420,19 +436,5 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="289" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587909054782" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/clientSide/view/addingItemToCartView/View.java</url>
-          <line>74</line>
-          <properties class="clientSide.view.addingItemToCartView.View" method="addAppleToCartAction">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

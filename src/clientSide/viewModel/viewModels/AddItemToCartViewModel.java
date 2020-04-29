@@ -9,7 +9,7 @@ import javafx.beans.property.StringProperty;
 
 /**
  *This class is responsible for making method calls on the model.
- * Mainly handling operations regarding items.
+ *Handles operations regarding items.
  */
 
 public class AddItemToCartViewModel {
